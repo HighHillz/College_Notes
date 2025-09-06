@@ -9,5 +9,5 @@ All essentials for college exam preparations and more in one digital folder stru
 ```bash
 📂 College
  ┣ 📂 Semester 1             # All essentials for semester 1 exams
- ┗ 📄 README.md            # You’re looking at it 😎 (Current version details)
+ ┗ 📄 README.md              # You’re looking at it 😎 (Current version details)
 ```
