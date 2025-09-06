@@ -2,7 +2,7 @@
 All essentials that helps in cracking semester 1 exams, through understanding and not rote-learning.
 
 ## Duration
-**From**: August 2025
+**From**: August 2025 <br>
 **To**: December 2025
 
 ## Structure
