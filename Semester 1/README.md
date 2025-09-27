@@ -18,17 +18,32 @@ Courses in this semester:
 ## Structure
 ```bash
 📂 Semester 1
+ ┃
  ┣ 📂 MA1039 - Mathematics I   
- ┃  ┣ 📄 Syllabus.pdf                      
- ┃  ┗ 📂 Calculus
- ┃      ┣ 📄 Limits.pdf
- ┃      ┣ 📄 Differentiation.pdf
- ┃      ┣ 📄 Minima and Maxima.pdf
- ┃      ┣ 📄 Integration.pdf
- ┃      ┗ 📄 Applications of Integration.pdf
- ┣ 📂 CS1704 - FDS      
+ ┃  ┣ 📄 Syllabus.pdf         
+ ┃  ┃             
+ ┃  ┣ 📂 Calculus
+ ┃  ┃  ┣ 📄 Limits.pdf
+ ┃  ┃  ┣ 📄 Differentiation.pdf
+ ┃  ┃  ┣ 📄 Minima and Maxima.pdf
+ ┃  ┃  ┣ 📄 Integration.pdf
+ ┃  ┃  ┗ 📄 Applications of Integration.pdf
+ ┃  ┃ 
+ ┃  ┗ 📂 Vector Calculus
+ ┃     ┣ 📄 Scalars and Vectors.pdf
+ ┃     ┣ 📄 Differential Operators.pdf
+ ┃     ┗ 📄 Level Curves and Surfaces.pdf
+ ┃ 
+ ┣ 📂 CS1704 - FDS  
  ┃  ┣ 📄 Syllabus.pdf                                 
  ┃  ┣ 📄 Theory.pdf
  ┃  ┗ 📄 preprocessing.ipynb
+ ┃
  ┗ 📄 README.md                                             
 ```
+
+## Notes Making
+Online notes for this semester is being made using:
+- Notion (online tool) converted to `.pdf`
+- Python notebook (`.ipynb`) for FDS codes
+- Latex (Language for mathematical equations)
