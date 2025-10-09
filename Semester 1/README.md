@@ -9,7 +9,7 @@ Courses in this semester:
 - CS1733 : Digital Design
 - CS1739 : Programming in C
 - EN1001 : Communicative English
-- CS1031T : COA (Computer Organisation and Architecture)
+- CS1031T : COA (Computer Organization and Architecture)
 
 ## Duration
 **From**: August 2025 <br>
@@ -38,6 +38,10 @@ Courses in this semester:
  ┃  ┣ 📄 Syllabus.pdf                                 
  ┃  ┣ 📄 Theory.pdf
  ┃  ┗ 📄 preprocessing.ipynb
+ ┃
+ ┣ 📂 CS1031T - COA  
+ ┃  ┣ 📄 Architecture - Surface Level.pdf                                 
+ ┃  ┗ 📄 Scott CPU.pdf
  ┃
  ┗ 📄 README.md                                             
 ```
