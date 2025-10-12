@@ -43,6 +43,13 @@ Courses in this semester:
  ┃  ┣ 📄 Architecture - Surface Level.pdf                                 
  ┃  ┗ 📄 Scott CPU.pdf
  ┃
+ ┣ 📂 CS1739 - Programming in C
+ ┃  ┗ 📂 Introduction to Computers
+ ┃     ┣ 📄 Problems and Approaches.pdf
+ ┃     ┣ 📄 Designing a Solution.pdf
+ ┃     ┣ 📄 Sorting and Searching.pdf
+ ┃     ┗ 📄 More on Algorithms.pdf
+ ┃
  ┗ 📄 README.md                                             
 ```
 
