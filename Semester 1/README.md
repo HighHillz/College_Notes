@@ -43,16 +43,22 @@ Courses in this semester:
  ┃  ┣ 📄 Architecture - Surface Level.pdf                                 
  ┃  ┗ 📄 Scott CPU.pdf
  ┃
+ ┣ 📂 CS1733 - Digital Design  
+ ┃  ┣ 📄 Arithmetic Circuits.pdf                                 
+ ┃  ┗ 📄 Number Systems.pdf
+ ┃
  ┣ 📂 CS1739 - Programming in C
  ┃  ┣ 📂 Introduction to Computers
+ ┃  ┃  ┣ 📄 Computer Fundamentals.pdf
  ┃  ┃  ┣ 📄 Problems and Approaches.pdf
  ┃  ┃  ┣ 📄 Designing a Solution.pdf
  ┃  ┃  ┣ 📄 Sorting and Searching.pdf
- ┃  ┃  ┗ 📄 More on Algorithms.pdf
+ ┃  ┃  ┗ 📄 More on Algorithm.pdf
  ┃  ┃
  ┃  ┗ 📂 Basics of C Programming
  ┃     ┣ 📄 Human and Computer Languages.pdf
  ┃     ┣ 📄 Structure of C program.pdf
+ ┃     ┣ 📄 Operators.pdf
  ┃     ┗ 📄 Identifiers Keywords and Data Types.pdf
  ┃
  ┗ 📄 README.md                                             
