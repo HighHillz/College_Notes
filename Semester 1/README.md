@@ -37,7 +37,10 @@ Courses in this semester:
  ┣ 📂 CS1704 - FDS  
  ┃  ┣ 📄 Syllabus.pdf                                 
  ┃  ┣ 📄 Theory.pdf
- ┃  ┗ 📄 preprocessing.ipynb
+ ┃  ┣ 📄 preprocessing.ipynb
+ ┃  ┣ 📄 plotting.ipynb
+ ┃  ┣ 📄 Machine Learning.pdf
+ ┃  ┗ 📄 Supervised Learning I.pdf
  ┃
  ┣ 📂 CS1031T - COA  
  ┃  ┣ 📄 Architecture - Surface Level.pdf                                 
