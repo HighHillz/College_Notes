@@ -1,5 +1,5 @@
 # Semester 1
-This folder contains all key notes and explanations for the courses in **Semester 1** according to the 2025-29 batch syllabus.
+This folder contains all key notes and explanations for the courses in **Semester 1** according to the 2025-29 batch syllabus for AIDS.
 
 <br>
 
@@ -14,58 +14,6 @@ Courses in this semester:
 ## Duration
 **From**: August 2025 <br>
 **To**: December 2025
-
-## Structure
-```bash
-📂 Semester 1
- ┃
- ┣ 📂 MA1039 - Mathematics I   
- ┃  ┣ 📄 Syllabus.pdf         
- ┃  ┃             
- ┃  ┣ 📂 Calculus
- ┃  ┃  ┣ 📄 Limits.pdf
- ┃  ┃  ┣ 📄 Differentiation.pdf
- ┃  ┃  ┣ 📄 Minima and Maxima.pdf
- ┃  ┃  ┣ 📄 Integration.pdf
- ┃  ┃  ┗ 📄 Applications of Integration.pdf
- ┃  ┃ 
- ┃  ┗ 📂 Vector Calculus
- ┃     ┣ 📄 Scalars and Vectors.pdf
- ┃     ┣ 📄 Differential Operators.pdf
- ┃     ┗ 📄 Level Curves and Surfaces.pdf
- ┃ 
- ┣ 📂 CS1704 - FDS  
- ┃  ┣ 📄 Syllabus.pdf                                 
- ┃  ┣ 📄 Theory.pdf
- ┃  ┣ 📄 preprocessing.ipynb
- ┃  ┣ 📄 plotting.ipynb
- ┃  ┣ 📄 Machine Learning.pdf
- ┃  ┗ 📄 Supervised Learning I.pdf
- ┃
- ┣ 📂 CS1031T - COA  
- ┃  ┣ 📄 Architecture - Surface Level.pdf                                 
- ┃  ┗ 📄 Scott CPU.pdf
- ┃
- ┣ 📂 CS1733 - Digital Design  
- ┃  ┣ 📄 Arithmetic Circuits.pdf                                 
- ┃  ┗ 📄 Number Systems.pdf
- ┃
- ┣ 📂 CS1739 - Programming in C
- ┃  ┣ 📂 Introduction to Computers
- ┃  ┃  ┣ 📄 Computer Fundamentals.pdf
- ┃  ┃  ┣ 📄 Problems and Approaches.pdf
- ┃  ┃  ┣ 📄 Designing a Solution.pdf
- ┃  ┃  ┣ 📄 Sorting and Searching.pdf
- ┃  ┃  ┗ 📄 More on Algorithm.pdf
- ┃  ┃
- ┃  ┗ 📂 Basics of C Programming
- ┃     ┣ 📄 Human and Computer Languages.pdf
- ┃     ┣ 📄 Structure of C program.pdf
- ┃     ┣ 📄 Operators.pdf
- ┃     ┗ 📄 Identifiers Keywords and Data Types.pdf
- ┃
- ┗ 📄 README.md                                             
-```
 
 ## Notes Making
 Online notes for this semester is being made using:
