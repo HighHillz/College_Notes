@@ -1,5 +1,5 @@
 # Semester 1
-This folder contains all key notes and explanations for the courses in **Semester 1** according to the 2025-29 batch syllabus for AIDS.
+This folder contains all key notes and explanations for the courses in **Semester 1** according to the 2025-29 batch syllabus for AI & DS.
 
 <br>
 
@@ -7,7 +7,7 @@ Courses in this semester:
 - MA1039 : Mathematics I
 - CS1704 : FDS (Foundation in Data Science)
 - CS1733 : Digital Design
-- CS1739 : Programming in C
+- CS1739 : PSPC (Problem Solving and Programming in C)
 - EN1001 : Communicative English
 - CS1031T : COA (Computer Organization and Architecture)
 
