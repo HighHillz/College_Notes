@@ -2,10 +2,14 @@
 SNUC class notes and other materials according to the 2025-29 syllabus for AI & DS structured well by Annamalai. There are 8 semesters in this programme and each gets a separate folder.
 <br>
 
-Author: **Annamalai A**
-<br>
-
 ![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-black?style=flat-square)
+
+## Contributors
+### Contributors on GitHub
+[Annamalai A](https://github.com/HighHillz)
+
+### Contributors outside GitHub
+Lakshith M
 
 ## Degree and Branch
 **Degree**: B. Tech.

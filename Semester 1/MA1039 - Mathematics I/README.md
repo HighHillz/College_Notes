@@ -4,9 +4,12 @@ This folder consists of all conceptual explanation and formulas for the course *
 
 ![Notes-status](https://img.shields.io/badge/Status-Incomplete-red.svg)
 
-## Details
-Author: **Annamalai A**
-<br>
+
+## Contributors
+### Contributors on GitHub
+[Annamalai A](https://github.com/HighHillz)
+
+## Faculty incharge
 Faculty incharge: **Dr. Prasanna Lakshmi**
 
 ## Topics / Units

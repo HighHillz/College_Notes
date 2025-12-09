@@ -4,10 +4,12 @@ This folder consists of all concepts for the course **PSPC** in an elaborated ma
 
 ![Notes-status](https://img.shields.io/badge/Status-Incomplete-red.svg)
 
-## Details
-Author: **Annamalai A**
-<br>
-Faculty incharge: **Dr. Rudrashis Majumder**
+## Contributors
+### Contributors on GitHub
+[Annamalai A](https://github.com/HighHillz)
+
+## Faculty incharge
+**Dr. Rudrashis Majumder**
 
 ## Topics / Units
 - Unit 1: Introduction to Computers

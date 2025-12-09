@@ -4,7 +4,10 @@ This folder consists of all concepts for the course **COA** in an elaborated man
 
 ![Notes-status](https://img.shields.io/badge/Status-Incomplete-red.svg)
 
-## Details
-Author: **Annamalai A**
-<br>
+
+## Contributors
+### Contributors on GitHub
+[Annamalai A](https://github.com/HighHillz)
+
+## Faculty incharge
 Faculty incharge: **Dr. Shanmugakumar**
