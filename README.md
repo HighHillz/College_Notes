@@ -6,7 +6,7 @@ SNUC class notes and other materials according to the 2025-29 syllabus for AI & 
 
 ## Contributors
 ### Contributors on GitHub
-[Annamalai A](https://github.com/HighHillz)
+[Annamalai A](https://github.com/HighHillz) <br>
 [Aprameyan](https://github.com/aprameyansr)
 
 ### Contributors outside GitHub
