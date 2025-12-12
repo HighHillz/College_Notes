@@ -8,7 +8,7 @@ This folder consists of all concepts for the course **PSPC** in an elaborated ma
 ### Contributors on GitHub
 [Annamalai A](https://github.com/HighHillz)
 
-## Faculty incharge
+## Faculty Incharge
 **Dr. Rudrashis Majumder**
 
 ## Topics / Units

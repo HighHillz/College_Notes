@@ -10,5 +10,5 @@ This folder consists of all concepts for the course **FDS** in an elaborated man
 [Annamalai A](https://github.com/HighHillz) <br>
 [Aprameyan](https://github.com/aprameyansr)
 
-## Faculty incharge
-Faculty incharge: **Dr. Debajyoti Biswas**
+## Faculty Incharge
+**Dr. Debajyoti Biswas**

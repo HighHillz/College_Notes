@@ -9,5 +9,5 @@ This folder consists of all concepts for the course **COA** in an elaborated man
 ### Contributors on GitHub
 [Annamalai A](https://github.com/HighHillz)
 
-## Faculty incharge
-Faculty incharge: **Dr. Shanmugakumar**
+## Faculty Incharge
+**Dr. Shanmugakumar**

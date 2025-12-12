@@ -9,5 +9,5 @@ This folder consists of all concepts for the course **Digital Design** in an ela
 ### Contributors on GitHub
 [Annamalai A](https://github.com/HighHillz)
 
-## Faculty incharge
-Faculty incharge: **Dr. Poulomi C**
+## Faculty Incharge
+**Dr. Poulomi C**

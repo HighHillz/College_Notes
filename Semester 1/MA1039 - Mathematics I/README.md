@@ -9,8 +9,8 @@ This folder consists of all conceptual explanation and formulas for the course *
 ### Contributors on GitHub
 [Annamalai A](https://github.com/HighHillz)
 
-## Faculty incharge
-Faculty incharge: **Dr. Prasanna Lakshmi**
+## Faculty Incharge
+**Dr. Prasanna Lakshmi**
 
 ## Topics / Units
 - Unit 1: Calculus
