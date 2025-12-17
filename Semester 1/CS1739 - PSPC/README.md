@@ -2,7 +2,7 @@
 This folder consists of all concepts for the course **PSPC** in an elaborated manner.
 <br>
 
-![Notes-status](https://img.shields.io/badge/Status-Incomplete-red.svg)
+![Notes-status](https://img.shields.io/badge/Status-Complete-green.svg)
 
 ## Contributors
 ### Contributors on GitHub
