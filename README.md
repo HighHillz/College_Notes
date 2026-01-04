@@ -26,5 +26,5 @@ Lakshith M
 
 <br>
 
-**Semester 1** : Aug 2025 - Dec 2025
+**Semester 1** : Aug 2025 - Dec 2025 <br>
 **Semester 2** : Jan 2026 - May 2026
