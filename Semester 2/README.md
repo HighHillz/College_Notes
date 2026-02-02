@@ -20,5 +20,4 @@ Courses in this semester:
 ## Notes Making
 Online notes for this semester is being made using:
 - [Notion](https://www.notion.so/) converted to `.pdf`
-- Python notebook (`.ipynb`) for FDS codes
 - Latex (Language for mathematical equations)
