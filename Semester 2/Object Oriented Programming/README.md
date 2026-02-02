@@ -1,5 +1,5 @@
 # Object Oriented Programming (OOP)
-This folder consists of all concepts for the course **OOP** in an elaborated manner.
+This folder consists of all concepts for the course **OOP** in an exam-friendly manner.
 <br>
 
 ![Notes-status](https://img.shields.io/badge/Status-Incomplete-red.svg)
